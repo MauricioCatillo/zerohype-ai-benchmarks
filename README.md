@@ -5,7 +5,6 @@ Benchmark reproducible en Python 3 estándar (sin dependencias externas) para ev
 ## Archivos incluidos
 - `prueba3_buggy_module.py`: Código con 3 bugs sembrados (es lo que se entrega al modelo).
 - `test_prueba3.py`: Suite de 4 tests unitarios que deben pasar en verde.
-- `prueba3_solucion_referencia.py`: Solución verificada para uso interno del canal (no enviar al modelo).
 
 ## Cómo ejecutarlo en pantalla (para grabación en OBS)
 ```bash
